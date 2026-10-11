@@ -6,10 +6,8 @@
 
 ## 🔗 Project Links
 
-- 🌐 **Live Website Link**: `https://<YOUR-GITHUB-USERNAME>.github.io/recipe-meal-planner/` *(or Vercel: `https://recipe-meal-planner.vercel.app`)*
-- 💻 **GitHub Repository**: `https://github.com/<YOUR-GITHUB-USERNAME>/recipe-meal-planner`
-
-*(Replace `<YOUR-GITHUB-USERNAME>` with your actual GitHub username once pushed).*
+- 🌐 **Live Website Link**: `https://darshansuresh006-dev.github.io/recipe-meal-planner/` *(or Vercel: `https://recipe-meal-planner.vercel.app`)*
+- 💻 **GitHub Repository**: `https://github.com/darshansuresh006-dev/recipe-meal-planner`
 
 ---
 
